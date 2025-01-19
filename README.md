@@ -104,7 +104,7 @@ happen. We can't hope to perfectly cover every single contribution that lead up 
 them fairly.
 
 ### Path to the Archipelago
-
+## By Mudassir Alam
 Archipelago was directly forked from bonta0's `multiworld_31` branch of ALttPEntranceRandomizer (this project has a
 long legacy of its own, please check it out linked above) on January 12, 2020. The repository was then named to
 _MultiWorld-Utilities_ to better encompass its intended function. As Archipelago matured, then known as
